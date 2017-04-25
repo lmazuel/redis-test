@@ -1,0 +1,2 @@
+json-rpc
+azure-mgmt-redis
